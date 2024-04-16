@@ -1,0 +1,14 @@
+.myInput {
+  padding: 8px 16px;
+  background-color: aqua;
+  font-size: 14px;
+  border-radius: 8px;
+  border: 2px solid green;
+}
+
+.isBig {
+  width: 100px;
+  height: 56px;
+  font-size: 18px;
+  padding: 16px 32px;
+}
